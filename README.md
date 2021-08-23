@@ -2,7 +2,7 @@
 
 ## Olá pessoal 👋
 Sou apaixonado por tecnologia e gosto de resolver problemas utilizando a programação.
-Atualmente sou um FullStack Developer e atuco com as técnologias asp, vb.Net, SQLServer, JQuery :computer:
+Atualmente sou um FullStack Developer e atuo com as técnologias asp, vb.Net, SQLServer, JQuery :computer:
 
  :rocket:  &nbsp; Atualmente estou trabalhando na **Sponte** onde desenvolvo soluções para escolas de educação básica e clinicas.
  <br/> :purple_heart: &nbsp; Busco sempre entregar o melhor possível entre o meu trabalho 
